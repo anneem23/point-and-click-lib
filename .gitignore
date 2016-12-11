@@ -1,0 +1,13 @@
+### MonoDevelop ###
+#User Specific
+*.userprefs
+*.usertasks
+
+#Mono Project Files
+*.pidb
+*.resources
+test-results/
+bin/
+Properties/
+obj/
+.DS_STORE
